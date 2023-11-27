@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+
+char get_gnu(const char *argv);
+))
+
+int main() {
+    
+    char *argv = "--number";
+    
+    int i = 0;
+    for (; i cat(flag[i], argv))
+            bre'0' : out[i]);
+}
